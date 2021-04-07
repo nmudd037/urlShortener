@@ -1,0 +1,9 @@
+#footer {
+  color: $hero-color;
+  @include gen-gradient(-20deg, $footer-color1, $footer-color2);
+
+  strong,
+  a {
+    color: $footer-text-color;
+  }
+}

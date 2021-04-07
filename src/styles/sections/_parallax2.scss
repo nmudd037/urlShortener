@@ -1,0 +1,13 @@
+#parallax-2 {
+  background: linear-gradient(
+    to top,
+    $parallax2-color1 0%,
+    $parallax2-color1 1%,
+    $parallax2-color2 100%
+  );
+  border-top: 10px solid $parallax2-colorhr;
+
+  hr {
+    background: $parallax2-colorhr;
+  }
+}

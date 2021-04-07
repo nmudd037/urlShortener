@@ -1,0 +1,8 @@
+#parallax-1 {
+  @include gen-gradient(120deg, $parallax1-color1, $parallax1-color2);
+  border-top: 10px solid $parallax1-colorhr;
+
+  hr {
+    background: $parallax1-colorhr;
+  }
+}
