@@ -2,9 +2,10 @@
 
 A full-stack web application using the MERN stack that lets user to get a shorter link and that can be used to redirect to their web site. Also, provides analytics like number of visitors to their shorter link. Implemented Context API and useReducer hook to create action creators and reducers.
 
-Developed a simple API and server to handle the routes using the Node.js and Express with MongoDB(MongooseJS ODM) as the database.
+Developed a simple RESTful API and server to handle the routes using the Node.js and Express with MongoDB(MongooseJS ODM) as the database.
 
-Backend Code, **[click here](https://github.com/nmudd037/CR-urlShortener-server)**
+Backend Code, **[click here](https://github.com/nmudd037/urlShortener-server)**
+**[Hosted at Vercel](https://urlshortener-mnr.vercel.app/)**
 
 # Getting Started with Create React App
 
