@@ -4,8 +4,8 @@ A full-stack web application using the MERN stack that lets user to get a shorte
 
 Developed a simple RESTful API and server to handle the routes using the Node.js and Express with MongoDB(MongooseJS ODM) as the database.
 
-Backend Code, **[click here](https://github.com/nmudd037/urlShortener-server)**
-**[Hosted at Vercel](https://urlshortener-mnr.vercel.app/)**
+Backend Code, **[click here](https://github.com/nmudd037/urlShortener-server)**\
+Demo, **[Hosted at Vercel](https://urlshortener-mnr.vercel.app/)**
 
 # Getting Started with Create React App
 
